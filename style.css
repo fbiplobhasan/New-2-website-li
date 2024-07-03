@@ -2,4 +2,25 @@ h3{
     font-size: 50;
     font-weight: 900;
 }
-fon
+button{
+    border: none;
+    outline: none;
+    padding: 10px;
+    background-color: #f31010;;
+    cursor: pointer;
+}
+.btn{
+    background-color: aqua;
+    color: white;
+}
+.btn{
+    border: none;
+    outline: none;
+    padding: 10px;
+    background-color: #666;
+    cursor: pointer;
+}
+.active, .btn:hover{
+    background-color: #666;
+    color: white;
+}
